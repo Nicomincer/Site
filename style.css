@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color: aqua;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+
+#square{
+    width: 200px;
+    height: 200px;
+    color: black;
+    background-color: gray;
+    text-align: justify, center;
+    margin-top: 50px;
+
+}
